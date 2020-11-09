@@ -8,4 +8,6 @@ There are three primary goals of this kernel.
 - <b>Do an exploratory data analysis(EDA)</b> of titanic with visualizations and storytelling.  
 - <b>Predict</b>: Use machine learning classification models to predict the chances of passengers survival.
 
-<img src="http://data.freehdw.com/ships-titanic-vehicles-best.jpg"  Width="800">
+<p align="center">
+  <img src="http://data.freehdw.com/ships-titanic-vehicles-best.jpg"  Width="800" />
+</p>
